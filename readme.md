@@ -1,6 +1,6 @@
 ### Welcome, I'm Luiz Gustavo 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()                      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](im.gusta02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)                      [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](im.gusta02@gmail.com)
 
 ![Gusta GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizz-Gustavo&show_icons=true&theme=radical)
 
@@ -15,6 +15,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizz-Gustavo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizz-Gustavo)](https://github.com/Luizz-Gustavo)
 
 <blockquote><i>"Without music, life would be a mistake" - Nietzsche, Friedrich<i>
