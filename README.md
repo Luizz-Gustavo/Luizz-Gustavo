@@ -15,6 +15,6 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizz-Gustavo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizz-Gustavo)](https://github.com/Luizz-Gustavo)
 
 <blockquote><i>"Without music, life would be a mistake" - Nietzsche, Friedrich<i>
