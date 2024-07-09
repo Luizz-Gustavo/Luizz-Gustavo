@@ -5,7 +5,7 @@
 
 ![Gusta GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizz-Gustavo&show_icons=true&theme=radical)
 
-## i'm currently learning!
+## Work tools!
 
 <div style="display: inline_block"><br>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
